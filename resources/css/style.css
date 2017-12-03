@@ -16,3 +16,25 @@ h3 {
 p {
   font-size: 14px;
 }
+ul li {
+  list-style-type: none;
+  text-decoration: underline;
+}
+
+span {
+  font-size: 11px;
+}
+  .flatiron  {
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  }
+
+.header2 {
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+.footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
